@@ -1,1 +1,2 @@
-# UCLA-Stats21-Python-and-Other-Technologies-for-Data-Science
+This is a repository for self-learning with professor Miles Chen of UCLA stats 21.
+
